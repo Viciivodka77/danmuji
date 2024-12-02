@@ -8,7 +8,7 @@ function App() {
   // }
 
   return (
-    <main className="container">
+    <main className="container bg-blueGray">
         <h2>Bilibili 弹幕姬</h2>
         <p>base on Tarui + Vite + React</p>
     </main>
